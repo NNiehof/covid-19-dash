@@ -19,3 +19,9 @@ def get_layout():
             }
         )
     ])
+
+
+def world_map(df):
+    """
+    World map graph with bubbles to show data frequency.
+    """

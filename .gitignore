@@ -1,4 +1,8 @@
+# compiled
 **/__pycache__
+
+# ignore csv files inside data folder
+data/*.csv
 
 # VSCode
 .vscode
